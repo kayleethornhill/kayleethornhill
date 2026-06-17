@@ -18,15 +18,15 @@ Data validation, reporting, and backend systems
 Git/GitHub, technical documentation, and project structure
 
 # Featured Projects
-Engineering Project Intake Tracker
+**Engineering Project Intake Tracker**
 
 A FastAPI web application that standardizes engineering project intake, stores project records, displays saved requests, and exports data for reporting.
 
-Service Request Data Quality Pipeline
+**Service Request Data Quality Pipeline**
 
 A Python and PostgreSQL pipeline that cleans, validates, rejects bad records, generates a data quality report, loads clean data into PostgreSQL, and includes automated tests.
 
-Customer Feedback Automation
+**Customer Feedback Automation**
 
 A Power Automate workflow that captures customer feedback, flags high-priority complaints, and routes urgent issues for review.
 
