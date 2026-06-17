@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Kaylee THornhill
+## I'm Kaylee Thornhill
 I'm a Computer Science student focused on software engineering, automation, backend development and business systems.
 
 I like building practical tools that make messy processes cleaner. The kind of problems that catch my attention are usually the ones where people are tracking things manually, repeating the same steps over and over, or working around a system that could just be ✨better✨. I enjoy digging into how a process works, finding where it breaks down and building something that not only makes the work easier to manage, but changes the workload entirely.
